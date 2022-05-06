@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+h1{
+  text-align: center;
+}
+li{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+  padding: 5px;
+}
